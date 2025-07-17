@@ -5,3 +5,4 @@ seaborn
 joblib
 scikit-learn
 nltk
+punkt
