@@ -8,7 +8,7 @@
 import streamlit as st
 import joblib
 import nltk
-nltk.download('punkt')
+nltk==3.8.1
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
 import string 
