@@ -9,6 +9,7 @@ import streamlit as st
 import joblib
 import nltk
 nltk.download('punkt')
+from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
 import string 
