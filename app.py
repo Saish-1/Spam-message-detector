@@ -4,7 +4,7 @@
 3. Predict
 4. Display
 """
-
+pip install --upgrade pip
 import streamlit as st
 import joblib
 import nltk
