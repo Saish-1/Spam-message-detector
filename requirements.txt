@@ -5,4 +5,4 @@ seaborn
 joblib
 scikit-learn
 nltk
-punkt
+nltk.download('punkt')
